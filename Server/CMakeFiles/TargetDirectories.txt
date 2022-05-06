@@ -1,0 +1,3 @@
+C:/Users/Win10/Desktop/Новая папка/4sem/OC - Операционные Сети/5/Server/CMakeFiles/Server.dir
+C:/Users/Win10/Desktop/Новая папка/4sem/OC - Операционные Сети/5/Server/CMakeFiles/ALL_BUILD.dir
+C:/Users/Win10/Desktop/Новая папка/4sem/OC - Операционные Сети/5/Server/CMakeFiles/ZERO_CHECK.dir
